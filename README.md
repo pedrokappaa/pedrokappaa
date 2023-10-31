@@ -1,1 +1,1 @@
-This is a test repo!
+Welcome to my GitHub profile! Check out below some cool projects I was involved in :)
